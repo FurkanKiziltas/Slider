@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.card-body {
+    text-align: center;
+}
+
+.card-footer  {
+    display: flex;
+    justify-content: center;
+}   
+
+.card-footer i {
+    padding: 0 20px;
+    cursor: pointer;
+}
